@@ -1,5 +1,5 @@
-<h1>Bootstrap5 RTL Hebrew Blog
-Just playing with Bottstrap5 Blog-RTL template
+<h1>Bootstrap5 RTL Hebrew Blog>/h1>
+  <p>Just playing with Bottstrap5 Blog-RTL template</p>
 
 <h2><a href="https://esteecodes.github.io/bootstrap5-Hebrew-blog-rtl/" target="_blank">View It Here</a></h2>
 
